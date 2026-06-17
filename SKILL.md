@@ -1,6 +1,10 @@
 ---
+
 name: startup-idea-validator
-description: Validate startup, app, or business ideas via a structured, research-backed framework: problem strength, market sizing (TAM/SAM/SOM), competition, go-to-market feasibility, and business model viability — grounded in live web research on market data, competitors, and trends. Produces a Validation Report: 1-5 scorecard, riskiest assumptions, a cheapest-test recommendation, and a Go/Conditional Go/Pivot/No-Go verdict. MANDATORY TRIGGERS: 'validate this idea', 'validate my startup idea', 'pressure-test/stress-test this business idea', 'idea validation', 'is this a viable business'. STRONG TRIGGERS: 'is there a market for X', 'would people pay for X', 'should I build this', 'what do you think of this business idea', 'evaluate this idea'. Use whenever someone describes a startup/product concept and wants honest viability feedback. Do NOT trigger for: naming, pitch decks/marketing copy, legal/incorporation, fundraising mechanics, or pure technical 'how do I build X' questions.
+
+
+description: "Validate startup, app, or business ideas via a structured, research-backed framework: problem strength, market sizing (TAM/SAM/SOM), competition, go-to-market feasibility, and business model viability — grounded in live web research on market data, competitors, and trends. Produces a Validation Report: 1-5 scorecard, riskiest assumptions, a cheapest-test recommendation, and a Go/Conditional Go/Pivot/No-Go verdict. MANDATORY TRIGGERS: 'validate this idea', 'validate my startup idea', 'pressure-test/stress-test this business idea', 'idea validation', 'is this a viable business'. STRONG TRIGGERS: 'is there a market for X', 'would people pay for X', 'should I build this', 'what do you think of this business idea', 'evaluate this idea'. Use whenever someone describes a startup/product concept and wants honest viability feedback. Do NOT trigger for: naming, pitch decks/marketing copy, legal/incorporation, fundraising mechanics, or pure technical 'how do I build X' questions."
+
 ---
 
 # Startup Idea Validator
