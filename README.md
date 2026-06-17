@@ -18,7 +18,7 @@ Think of GitHub as Google Drive, but for code. Instead of sharing photos and fil
 
 A skill is a small set of instructions you give to your AI. Think of it like a job description for a specific task. Once installed, you can trigger it with a phrase and Claude knows exactly how to handle it.
 
-This particular skill teaches Claude how to properly evaluate a startup idea for you, conducting online research and scoring it on 5 relevant dimensions
+This particular skill teaches Claude how to properly evaluate a startup idea for you. Most startup frameworks ask you to fill in a canvas, most AI assistants give you confident-sounding opinions with no research behind them. This skill combines both: it runs live web searches on your market, scores your idea across the five dimensions that actually determine outcomes, and ends with one verdict and one concrete next step
 
 ---
 
